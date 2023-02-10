@@ -1,2 +1,2 @@
 # ltf-ms
-Lycee technique de Fes Management System
+Système de Gestion basé sur PHP pour Le Lycee technique de Fes 
